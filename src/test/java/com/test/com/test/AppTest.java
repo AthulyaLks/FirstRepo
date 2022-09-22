@@ -8,11 +8,11 @@ import org.testng.annotations.Test;
 public class AppTest 
 {
     /*
-     * Rigorous Test :-)
+     *  Rigorous Test :-)
      */
     @Test(priority=1)
     public void shouldAnswerWithTrue()
     {
-          assertTrue( true );
+          //assertTrue( true );
     }
 }
