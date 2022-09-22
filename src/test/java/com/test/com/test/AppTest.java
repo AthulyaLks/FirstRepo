@@ -13,6 +13,6 @@ public class AppTest
     @Test(priority=1)
     public void shouldAnswerWithTrue()
     {
-       // assertTrue( true );
+          assertTrue( true );
     }
 }
