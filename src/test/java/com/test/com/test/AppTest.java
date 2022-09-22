@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
  */
 public class AppTest 
 {
-    /**
+    /*
      * Rigorous Test :-)
      */
     @Test(priority=1)
